@@ -21,12 +21,12 @@ This project is a web application that generates djent-style drum beats in real-
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/djent-drums-generator.git
+   git clone https://github.com/makalin/DjentSync.git
    ```
 
 2. Move to the project directory:
    ```bash
-   cd djent-drums-generator
+   cd DjentSync
    ```
 
 3. Ensure you have a PHP server installed (e.g., XAMPP, WAMP, or PHP CLI).
